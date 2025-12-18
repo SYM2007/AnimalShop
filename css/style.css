@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    height: 150px;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+   
+}
+.mitten{
+    float:left;
+    margin: 50px;
+    
+   
+   
+}
+.headerimg{
+    width: 1440px;
+
+}
+.hundsize{
+    height: 200px;
+    
+
+}
+.titel{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    color: rgb(225, 225, 24);
+}
